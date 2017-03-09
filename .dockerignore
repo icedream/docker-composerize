@@ -1,0 +1,9 @@
+###
+
+.dockerignore
+Dockerfile
+docker-compose.*
+.git*
+.svn*
+.cvs*
+.hg*

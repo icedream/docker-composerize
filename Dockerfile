@@ -1,6 +1,6 @@
 FROM node:7-alpine
 
-ARG COMPOSERIZE_VERSION=881064ded420c2fced2442457c6dca62b56a7500
+ARG COMPOSERIZE_VERSION=d841f289429579d30feee731dc08fb25b082432a
 
 RUN \
 	apk add --no-cache --virtual .temp \

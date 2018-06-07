@@ -1,4 +1,4 @@
-FROM node:7-alpine
+FROM node:8-alpine
 
 ARG COMPOSERIZE_VERSION=d841f289429579d30feee731dc08fb25b082432a
 
